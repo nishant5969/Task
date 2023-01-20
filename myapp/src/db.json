@@ -1,0 +1,17 @@
+[
+    {
+       "id":1,
+       "title":"rishab pant got injured",
+       "feed":"he is alive n is recovering"
+    },
+    {
+       "id":2,
+       "title":"2023 world cup playing 11 is decided",
+       "feed":"rohit sharma is captian"
+    },
+    { 
+        "id":3,
+        "title":"weather is not good",
+        "feed":"snow storm in canada"
+    }
+]
