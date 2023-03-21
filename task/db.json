@@ -1,0 +1,21 @@
+  {
+  
+    "shopping": [
+    {
+      "item": 1,
+      "quantity": 2,
+      "price" : 345
+    },
+
+    {
+      "item" : 2,
+      "quantity" : 1,
+      "price": 234
+    },
+    {
+       "item": 3,
+       "quantity": 3,
+       "price":321
+    }
+  ]
+  }
